@@ -1,0 +1,5 @@
+  371  history | tail -10
+  372  clear
+  373  ls
+  374  clear
+  375  history | tail -5 | cat >> historico.tx
